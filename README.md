@@ -1,5 +1,5 @@
 # Web Scraping Challenge
-In this challenge, I scrape and analyze Mars information and data utilizing BeautifulSoup, Pandas, Jupyter Notebook, and matplotlib.
+In this challenge, I scrape and analyze Mars information and data utilizing Splinter, BeautifulSoup, Pandas, Jupyter Notebook, and matplotlib.
 
 The first deliverable, mars_news, uses BeautifulSoup to extract html and scrape titles and preview text from a Mars News site.
 
